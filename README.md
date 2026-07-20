@@ -12,7 +12,7 @@ A from-scratch Expected Goals model built on StatsBomb's open shot event data fo
 - Benchmarked predictions against StatsBomb's own published xG values
 - Visualized shot maps on a pitch (mplsoccer) and team-level xG performance  (goals scored vs. xG, over/underperformance)
 
-## Stack Python · pandas · scikit-learn · XGBoost · mplsoccer · statsbombpy
+## Stack: Python · pandas · scikit-learn · XGBoost · mplsoccer · statsbombpy
 
 ## Results:
 - Logistic Regression and XGBoost performed comparably (log-loss ≈ 0.266–0.268)
