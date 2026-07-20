@@ -23,4 +23,4 @@ A from-scratch Expected Goals model built on StatsBomb's open shot event data fo
 ## Motivation:
 Built as part of my path toward football performance analysis — I wanted to understand what actually goes into an xG model rather than treating it as a black box, and to see how close a self-built model gets to StatsBomb's own.
 
-## Data Shot event data from [StatsBomb's open data]
+## Data: Shot event data from [StatsBomb's open data]
